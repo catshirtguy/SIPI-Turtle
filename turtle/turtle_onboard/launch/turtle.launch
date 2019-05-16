@@ -9,4 +9,6 @@
 	<node pkg="rosserial_python" type="serial.py" name="arduino">
 		<param name="port" value="/dev/ttyACM0"/>
 	</node>
+
+	<include file="$(find usb_cam)/launch/usb_cam-test.launch" />
 </launch>
