@@ -1,4 +1,7 @@
 # SIPI-Turtle
+
+
+[ros kinetic](http://wiki.ros.org/kinetic/Installation/Ubuntu)
 <p>code to teleoperate SIPI Turtle</p>
 
 <h3>Software</h3>
