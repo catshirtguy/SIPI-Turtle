@@ -2,7 +2,7 @@
 
 <p>The operating system (OS) used for the SIPI Turtle is <a href="https://www.ubuntu.com/download/desktop/thank-you?country=US&version=18.04.2&architecture=amd64">UBUNTU 18.04 LTS</a></p>
 
-<p>ROS melodic, below is the link to download the OS. <a href="http://wiki.ros.org/kinetic/Installation/Ubuntu">ros kinetic</a></p>
+<p>Robot behaviors is programed using the  <a href="http://wiki.ros.org/kinetic/Installation/Ubuntu">ROS Melodic</a></p>
 
 [arduino](https://www.arduino.cc/en/Main/Software)
 <p>code to teleoperate SIPI Turtle</p>
