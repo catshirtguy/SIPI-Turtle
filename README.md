@@ -1,7 +1,8 @@
 # SIPI-Turtle
 
-[ubuntu 18.04 LTS](https://www.ubuntu.com/download/desktop/thank-you?country=US&version=18.04.2&architecture=amd64)
+The operating system (OS) used for the SIPI Turtle is [UBUNTU 18.04 LTS](https://www.ubuntu.com/download/desktop/thank-you?country=US&version=18.04.2&architecture=amd64)
 
+ROS melodic, below is the link to download the OS.
 [ros kinetic](http://wiki.ros.org/kinetic/Installation/Ubuntu)
 
 [arduino](https://www.arduino.cc/en/Main/Software)
