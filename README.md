@@ -4,7 +4,7 @@
 
 <p>Robot behaviors is programed using <a href="http://wiki.ros.org/kinetic/Installation/Ubuntu">ROS Melodic</a></p>
 
-<p>Robot power controller programing is done with an Arduino MEGA 2560 <a href="https://www.arduino.cc/en/Main/Software">Ardino</a></p>
+<p>Programming the power controller(Arduino Mega 2560) is done with the <a href="https://www.arduino.cc/en/Main/Software">Ardino IDE</a></p>
 
 <h3>Software</h3>
 
