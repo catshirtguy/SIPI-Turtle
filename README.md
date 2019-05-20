@@ -12,7 +12,7 @@
 <pre>sudo apt install ros-kinetic-image-transport</pre>
 
 <p>if image-view does not work, it needs to be installed</p>
-sudo apt install ros-melodic-image-view
+<pre>sudo apt install ros-melodic-image-view</pre>
 
 
 
