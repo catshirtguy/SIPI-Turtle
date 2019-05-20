@@ -4,7 +4,7 @@
 
 <p>Robot behaviors is programed using the  <a href="http://wiki.ros.org/kinetic/Installation/Ubuntu">ROS Melodic</a></p>
 
-[arduino](https://www.arduino.cc/en/Main/Software)
+<p>Robot power controller programing is done with an Arduino MEGA 2560 <a href="https://www.arduino.cc/en/Main/Software">Ardino</a></p>
 <p>code to teleoperate SIPI Turtle</p>
 
 <h3>Software</h3>
