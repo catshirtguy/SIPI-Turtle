@@ -1,5 +1,6 @@
 # SIPI-Turtle
 
+[ubuntu 18.04 LTS](https://www.ubuntu.com/download/desktop/thank-you?country=US&version=18.04.2&architecture=amd64)
 
 [ros kinetic](http://wiki.ros.org/kinetic/Installation/Ubuntu)
 
