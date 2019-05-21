@@ -24,7 +24,8 @@
 
 <h3>Debugging</h3>
 
-<p>catkin build will not work if</p> <pre>ros-melodic-desktop</pre> <p> was installed. Catkin tools needs to be installed, use the following to install.</p>
+<p>catkin build will not work if <pre>ros-melodic-desktop</pre> was installed.</p>
+<p>Catkin tools needs to be installed, use the following to install.</p>
 <pre>sudo sh -c 'echo "deb http://packages.ros.org/ros/ubuntu `lsb_release -sc` main" > /etc/apt/sources.list.d/ros-latest.list'</pre>
 <pre>wget http://packages.ros.org/ros.key -O - | sudo apt-key add -</pre>
 <pre>sudo apt-get update</pre>
