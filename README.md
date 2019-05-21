@@ -31,6 +31,9 @@
 <pre>sudo apt-get update</pre>
 <pre>sudo apt-get install python-catkin-tools</pre>
 
+<p>ifconfig will need to installed to see ip address using terminal</p>
+<pre>sudo apt install net-tools</pre>
+
 <p>Image view may not work if ros full desktop was not installed. Use the following to install image view.</p>
 <pre>sudo apt install ros-melodic-image-view</pre>
 
