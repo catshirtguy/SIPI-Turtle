@@ -8,15 +8,29 @@
 
 <h3>Software</h3>
 
-<pre>sudo apt install ros-kinetic-usb-cam</pre>
+<p>ROS USB cam Drivers</p>
+<pre>sudo apt install ros-melodic-usb-cam</pre>
 
-<pre>sudo apt install ros-kinetic-joystick-drivers</pre>
+<p>  </p>
+<pre>sudo apt install ros-melodic-image-transport</pre>
 
-<pre>sudo apt install ros-kinetic-rosbridge-websocket</pre>
+<p>ROS joystick drivers </p>
+<pre>sudo apt install ros-melodic-joystick-drivers</pre>
 
-<pre>sudo apt install ros-kinetic-image-transport</pre>
+<p> ? TBD </p>
+<pre>sudo apt install ros-melodic-rosbridge-websocket</pre>
 
-<p>if image-view does not work, it needs to be installed</p>
+
+
+<h3>Debugging</h3>
+
+<p>catkin build will not work if</p> <pre>ros-melodic-desktop</pre> <p> was installed. Catkin tools needs to be installed, use the following to install.</p>
+<pre>sudo sh -c 'echo "deb http://packages.ros.org/ros/ubuntu `lsb_release -sc` main" > /etc/apt/sources.list.d/ros-latest.list'</pre>
+<pre>wget http://packages.ros.org/ros.key -O - | sudo apt-key add -</pre>
+<pre>sudo apt-get update</pre>
+<pre>sudo apt-get install python-catkin-tools</pre>
+
+<p>Image view may not work if ros full desktop was not installed. Use the following to install image view.</p>
 <pre>sudo apt install ros-melodic-image-view</pre>
 
 
